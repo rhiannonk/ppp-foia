@@ -39,13 +39,19 @@ any economic sectors.
 
 <br>
 <div align="center">
-[**Original graphic**](https://www.datawrapper.de/_/u87PZ/)
+  
+[Original graphic](https://www.datawrapper.de/_/u87PZ/)
+  
 <div style="max-width:70%;min-height:1025px"><img src="https://datawrapper.dwcdn.net/u87PZ/full.png" alt="" /></div>
 <br>
-[**Original graphic**](https://www.datawrapper.de/_/A2glt/)
+  
+[Original graphic](https://www.datawrapper.de/_/A2glt/)
+  
 <div style="max-width:70%;min-height:1083px"><img src="https://datawrapper.dwcdn.net/A2glt/full.png" alt="" /></div>
 <br>
-[**Original graphic**](https://www.datawrapper.de/_/8C59E/)
+  
+[Original graphic](https://www.datawrapper.de/_/8C59E/)
+  
 <div style="max-width:70%;min-height:425px"><img src="https://datawrapper.dwcdn.net/8C59E/full.png" alt="" /></div>
 </div>
 
@@ -56,7 +62,9 @@ sector as for either healthcare or construction. Yet professional services are
 not well-defined.
 
 <br>
+
 !["Architecture and engineering firms were the largest borrowers in the professional services sector."](./figures/Treemap_Fig1.jpg)
+
 <br>
 
 As a consultant working in data analysis services, I am interested in exploring loans to
@@ -65,9 +73,13 @@ provided, we still see two broad sectors that could be related to this kind of
 work.
 
 <br>
+
 !["Management consulting accounted for the largest share of borrowed dollars among consulting firms."](./figures/Treemap_Fig2.jpg)
+
 <br>
+
 !["Veterinary services, photography, market research, and translation businesses received nearly $2B."](./figures/Treemap_Fig3.jpg)
+
 <br>
 
 ### Technical notes
