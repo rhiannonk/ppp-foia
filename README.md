@@ -4,7 +4,7 @@ This repository contains analysis scripts and visualizations based on loan
 data from the Paycheck Protection Program, a U.S. federal relief scheme
 for businesses in the wake of the coronavirus pandemic.
 
-See [Technical notes](#Technical-notes) for software and methods used.
+See [Technical notes](#technical-notes) for software and methods used.
 
 > **Warning:** This analysis is intended for demonstration and data exploration
 purposes only.
@@ -34,23 +34,20 @@ construction, and hospitality were among the program's most well-represented
 borrowers. Professional and "other" services were approved for the most loans of
 any economic sectors.
 
+##### Note: Since Github Markdown does not allow embedded Javascript, static images are used. 
+*Links to interactive graphics are also included.*
+
 <br>
 <div align="center">
-<div style="max-width:70%;min-height:1025px"><script type="text/javascript"
-defer src="https://datawrapper.dwcdn.net/u87PZ/embed.js?v=3"
-charset="utf-8"></script><noscript><img
-src="https://datawrapper.dwcdn.net/u87PZ/full.png" alt="" /></noscript></div>
+[**Original graphic**](https://www.datawrapper.de/_/u87PZ/)
+<div style="max-width:70%;min-height:1025px"><img src="https://datawrapper.dwcdn.net/u87PZ/full.png" alt="" /></div>
 <br>
-<div style="max-width:70%;min-height:1083px"><script type="text/javascript"
-defer src="https://datawrapper.dwcdn.net/A2glt/embed.js?v=8"
-charset="utf-8"></script><noscript><img
-src="https://datawrapper.dwcdn.net/A2glt/full.png" alt="" /></noscript></div>
+[**Original graphic**](https://www.datawrapper.de/_/A2glt/)
+<div style="max-width:70%;min-height:1083px"><img src="https://datawrapper.dwcdn.net/A2glt/full.png" alt="" /></div>
 <br>
-<div style="max-width:70%;min-height:425px"><script type="text/javascript" defer
-src="https://datawrapper.dwcdn.net/8C59E/embed.js?v=1"
-charset="utf-8"></script><noscript><img
-src="https://datawrapper.dwcdn.net/8C59E/full.png" alt="" /></noscript></div>
-
+[**Original graphic**](https://www.datawrapper.de/_/8C59E/)
+<div style="max-width:70%;min-height:425px"><img src="https://datawrapper.dwcdn.net/8C59E/full.png" alt="" /></div>
+</div>
 
 ### What type of professional services establishments received loans?
 
